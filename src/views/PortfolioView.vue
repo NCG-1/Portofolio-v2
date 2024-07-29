@@ -4,15 +4,7 @@ export default {
     return {
       activeTab: 1,
       items: [
-        {
-          id: 1,
-          name: 'Personal Website',
-          imageUrl: 'portfolio_v2',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
-        },
+       
         {
           id: 2,
           name: 'Sahabat Muslim',
