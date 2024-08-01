@@ -115,8 +115,7 @@ export default {
       <header>
         <div class="text-2xl font-bold text-white mb-5 fadein-bot title-section flex items-center">
           About Me &nbsp;
-          <div class="h-[1px] w-32 bg-amber-200 md:w-96 aos-init aos-animate" data-aos="zoom-in-left"
-            data-aos-duration="600"></div>
+      <div class="h-[1px] w-32 md:w-96 aos-init aos-animate" data-aos="zoom-in-left" data-aos-duration="600" style="background-color: #007dfa;"></div>
         </div>
       </header>
 
