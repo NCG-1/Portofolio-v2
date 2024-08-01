@@ -9,7 +9,7 @@
           <span class="self-center text-lg text-[#ffdb70] font-semibold whitespace-nowrap fadein-bot hover:text-amber-100">Portofolio();</span>
         </button>
         <div class="flex md:order-2 fadein-bot">
-          <a href="❗❗❗"><img class="w-9 rounded-full" src="❗❗❗" alt="github"></a>
+          <a href="https://www.artstation.com/"><img class="w-9 rounded-full" src="https://i.ytimg.com/vi/6N7emlCfJeE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGB0gUyh_MA8=&rs=AOn4CLAk-86r2Qj71uXd5QtaqHCYVBSFCQ" alt="github"></a>
         </div>
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
           <ul class="flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">
