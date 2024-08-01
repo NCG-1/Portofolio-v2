@@ -165,6 +165,7 @@ body {
 
 .fade-in-from-left {
   opacity: 0;
+  color: #70b1ff; /* blue color */
   animation: fadeInLeft 0.5s ease-out forwards;
   animation-delay: 500ms;
 }
@@ -182,6 +183,7 @@ body {
 
 .fadein-right {
   opacity: 0;
+  color: #70b1ff; /* blue color */
   animation: fadeInRight 0.5s ease-out forwards;
   animation-delay: 500ms;
 }
@@ -199,6 +201,7 @@ body {
 
 .fadein-bot {
   opacity: 0;
+  color: #70b1ff; /* blue color */
   animation: fadeInBot 0.5s forwards;
 }
 
