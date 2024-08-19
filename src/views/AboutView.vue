@@ -33,25 +33,25 @@ export default {
         {
           id: 1,
           name: '3ds Max',
-          imageUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
+          imageUrl: 'https://www.ledet.com/wp-content/uploads/2023/02/Autodesk-3ds-Max.png',
           status: ' '
         },
         {
           id: 2,
           name: 'Photoshop',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
+          imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9rMffb6KTp-Ak9-LEmTSkqozpn_vMHEltNilJ97qKP9vKLYvpSK8DlRucbCJulkIo-U0&usqp=CAU',
           status: ' '
         },
         {
           id: 3,
           name: 'Quixel Mixer',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
+          imageUrl: 'https://cdn.icon-icons.com/icons2/3053/PNG/512/quixel_mixer_macos_bigsur_icon_189801.png',
           status: ' '
         },
         {
           id: 4,
           name: 'ZBrush',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
+          imageUrl: 'https://logosandtypes.com/wp-content/uploads/2020/08/zbrush.png',
           status: ' '
         },
       ]
