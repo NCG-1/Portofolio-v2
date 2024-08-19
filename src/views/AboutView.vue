@@ -30,6 +30,12 @@ export default {
           imageUrl: 'https://www.ledet.com/wp-content/uploads/2023/02/Autodesk-3ds-Max.png',
           status: ' '
         },
+                {
+          id: 1,
+          name: 'Blender',
+          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png',
+          status: ' '
+        },
         {
           id: 2,
           name: 'Photoshop',
