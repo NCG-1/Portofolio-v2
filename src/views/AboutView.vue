@@ -7,25 +7,19 @@ export default {
         {
           id: 1,
           name: '3D Modelling',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
-          status: 'Advanced'
-        },
-        {
-          id: 2,
-          name: 'Interior',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
+          imageUrl: 'https://cdn-icons-png.flaticon.com/512/4408/4408162.png',
           status: 'Advanced'
         },
         {
           id: 3,
           name: 'Texturing',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
+          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Brush_logo.png',
           status: 'Intermediate'
         },
         {
           id: 4,
           name: 'Sculpting',
-          imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
+          imageUrl: https://static.vecteezy.com/system/resources/previews/035/667/998/non_2x/sculpting-3d-icon-illustration-png.png',
           status: 'Beginner'
         },
       ],
@@ -39,7 +33,7 @@ export default {
         {
           id: 2,
           name: 'Photoshop',
-          imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9rMffb6KTp-Ak9-LEmTSkqozpn_vMHEltNilJ97qKP9vKLYvpSK8DlRucbCJulkIo-U0&usqp=CAU',
+          imageUrl: 'https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg',
           status: ' '
         },
         {
