@@ -19,7 +19,7 @@ export default {
         {
           id: 4,
           name: 'Sculpting',
-          imageUrl: https://static.vecteezy.com/system/resources/previews/035/667/998/non_2x/sculpting-3d-icon-illustration-png.png',
+          imageUrl: 'https://static.vecteezy.com/system/resources/previews/035/667/998/non_2x/sculpting-3d-icon-illustration-png.png',
           status: 'Beginner'
         },
       ],
