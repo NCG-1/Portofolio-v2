@@ -60,18 +60,17 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Zaze. I'm a 3D Developer/Artist. I
+            have 3 year of experience in 3D development.
+            I really enjoy what I do right now, in my opinion, creating models is not just a job, but also an art that
             has
             aesthetic value
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; My job is to create 3D models that are both highly functional and visually appealing. In addition, I provide a personal touch to your project, ensuring that each model captures attention and enhances the user experience.
+          </p>
+                    <p class="mb-3 fadein-left fadeins-3">
+            &nbsp; &nbsp; &nbsp; My goal is to bring your vision to life and represent your identity in the most creative way. If you are interested in hiring me, please contact the listed contact.
           </p>
         </div>
 
