@@ -3,26 +3,7 @@ export default {
   data() {
     return {
       activeTab: 1,
-      tech: [
-        {
-          id: 1,
-          name: '3D Modelling',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/4408/4408162.png',
-          status: 'Advanced'
-        },
-        {
-          id: 3,
-          name: 'Texturing',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Brush_logo.png',
-          status: 'Intermediate'
-        },
-        {
-          id: 4,
-          name: 'Sculpting',
-          imageUrl: 'https://static.vecteezy.com/system/resources/previews/035/667/998/non_2x/sculpting-3d-icon-illustration-png.png',
-          status: 'Beginner'
-        },
-      ],
+  
       tools: [
         {
           id: 1,
