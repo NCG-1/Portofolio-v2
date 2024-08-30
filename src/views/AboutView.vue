@@ -3,7 +3,7 @@ export default {
   data() {
     return {
       activeTab: 1,
-     Tools: [
+     Tech: [
 {
           id: 1,
           name: '3ds Max',
