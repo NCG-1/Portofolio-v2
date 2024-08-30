@@ -19,7 +19,7 @@ export default {
                 {
           id: 2,
           name: 'Blender',
-          imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fblender-3521310&psig=AOvVaw30GjR2_nk8nxOTNiTXo5RI&ust=1725114850324000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi-6eX3nIgDFQAAAAAdAAAAABAE',
+          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-blender-technology-logo-social-media-logo-download-svg-png-gif-flat-icon-logos-technology-logo-vol-1-pack-blender-logo-icon-2944729.png?f=webp&w=256',
           status: 'Intermediate'
         },
         {
