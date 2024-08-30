@@ -10,17 +10,17 @@ export default {
           imageUrl: 'https://www.ledet.com/wp-content/uploads/2023/02/Autodesk-3ds-Max.png',
           status: 'Advanced'
         },
-                {
-          id: 2,
-          name: 'Blender',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png',
-          status: 'Intermediate'
-        },
-        {
+       {
           id: 5,
           name: 'Photoshop',
           imageUrl: 'https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg',
           status: 'Advanced'
+        },
+                {
+          id: 2,
+          name: 'Blender',
+          imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fid%2Fsearch%3Fq%3DLogo%2Bblender&psig=AOvVaw0KelwhHjOhmnjoyydmNEOC&ust=1725114486261000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj23LL2nIgDFQAAAAAdAAAAABAI',
+          status: 'Intermediate'
         },
         {
           id: 3,
