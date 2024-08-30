@@ -3,7 +3,7 @@ export default {
   data() {
     return {
       activeTab: 1,
-     tech: [
+     Tools: [
 {
           id: 1,
           name: '3ds Max',
@@ -94,7 +94,7 @@ export default {
           <ul class="flex flex-wrap text-sm font-medium text-center text-gray-500 dark:text-gray-400 mb-5">
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-blue-200 bg-blue-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Tech Stack</button>
+                :class="{ 'text-blue-200 bg-blue-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Tools</button>
             </li>
           </ul>
         </div>
