@@ -3,9 +3,8 @@ export default {
   data() {
     return {
       activeTab: 1,
-  
-      tools: [
-        {
+     tech: [
+{
           id: 1,
           name: '3ds Max',
           imageUrl: 'https://www.ledet.com/wp-content/uploads/2023/02/Autodesk-3ds-Max.png',
@@ -35,7 +34,7 @@ export default {
           imageUrl: 'https://logosandtypes.com/wp-content/uploads/2020/08/zbrush.png',
           status: ' '
         },
-      ]
+      ],
     };
   }
 }
@@ -96,10 +95,6 @@ export default {
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
                 :class="{ 'text-blue-200 bg-blue-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Tech Stack</button>
-            </li>
-            <li class="mr-2">
-              <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-blue-200 bg-blue-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Tools</button>
             </li>
           </ul>
         </div>
