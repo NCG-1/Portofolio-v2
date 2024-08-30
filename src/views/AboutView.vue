@@ -19,7 +19,7 @@ export default {
                 {
           id: 2,
           name: 'Blender',
-          imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fid%2Fsearch%3Fq%3DLogo%2Bblender&psig=AOvVaw0KelwhHjOhmnjoyydmNEOC&ust=1725114486261000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj23LL2nIgDFQAAAAAdAAAAABAI',
+          imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fblender-3521310&psig=AOvVaw30GjR2_nk8nxOTNiTXo5RI&ust=1725114850324000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi-6eX3nIgDFQAAAAAdAAAAABAE',
           status: 'Intermediate'
         },
         {
