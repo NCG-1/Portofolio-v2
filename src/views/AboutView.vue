@@ -8,31 +8,31 @@ export default {
           id: 1,
           name: '3ds Max',
           imageUrl: 'https://www.ledet.com/wp-content/uploads/2023/02/Autodesk-3ds-Max.png',
-          status: ' '
+          status: 'Advanced'
         },
                 {
-          id: 1,
+          id: 2,
           name: 'Blender',
           imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png',
-          status: ' '
+          status: 'Intermediate'
         },
         {
-          id: 2,
+          id: 1,
           name: 'Photoshop',
           imageUrl: 'https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg',
-          status: ' '
+          status: 'Advanced'
         },
         {
           id: 3,
           name: 'Quixel Mixer',
           imageUrl: 'https://cdn.icon-icons.com/icons2/3053/PNG/512/quixel_mixer_macos_bigsur_icon_189801.png',
-          status: ' '
+          status: 'Intermediate'
         },
         {
           id: 4,
           name: 'ZBrush',
           imageUrl: 'https://logosandtypes.com/wp-content/uploads/2020/08/zbrush.png',
-          status: ' '
+          status: 'Beginner'
         },
       ],
     };
